@@ -102,10 +102,3 @@ Contributions are welcome! Please submit a pull request or open an issue to disc
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
-
-```
-
----
-
-If you want an even simpler or different style, just let me know!
-```
